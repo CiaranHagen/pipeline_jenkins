@@ -2070,7 +2070,7 @@
             "Suggests": "mockery, testthat (>= 3.0.0), withr",
             "Config/testthat/edition": "3",
             "RemoteType": "github",
-            "RemoteHost": "api.github.com",
+            "RemoteHost": "github.com",
             "RemoteRepo": "pipelineR",
             "RemoteUsername": "CiaranHagen",
             "RemoteRef": "master",
