@@ -2441,6 +2441,14 @@
             "NeedsCompilation": "no",
             "Repository": "CRAN"
         },
+        "remotes": {
+          "Package": "remotes",
+          "Version": "2.4.2",
+          "Source": "Repository",
+          "Repository": "CRAN",
+          "Hash": "b7e7e7e7e7e7e7e7e7e7e7e7e7e7e7e7",
+          "NeedsCompilation": "no"
+        },
         "renv": {
             "Package": "renv",
             "Version": "1.2.0",
