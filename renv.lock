@@ -2073,7 +2073,7 @@
             "RemoteHost": "api.github.com",
             "RemoteRepo": "pipelineR",
             "RemoteUsername": "CiaranHagen",
-            "RemoteRef": "HEAD",
+            "RemoteRef": "master",
             "RemoteSha": "2247acea2cd26098684c5eb2c3e571ce7add7dd4",
             "NeedsCompilation": "no",
             "Author": "Ciar\u00e1n Hagen [aut, cre]",
