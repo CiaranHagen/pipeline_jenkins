@@ -6,6 +6,6 @@
 .DS_Store
 .quarto
 *.Rproj
-/renv
+renv/
 .Renviron
 .Rprofile
