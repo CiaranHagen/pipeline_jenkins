@@ -1,3 +1,6 @@
+
+renv::restore()
+
 library(pipelineR)
 
 message("Starting pipeline...")
