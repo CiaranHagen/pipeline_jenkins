@@ -1,4 +1,9 @@
 
+Sys.getenv("GITHUB_PAT")
+
+install.packages("remotes")
+remotes::install_github("CiaranHagen/pipelineR")
+
 renv::restore()
 
 library(pipelineR)
